@@ -82,10 +82,10 @@
             // txtS
             // 
             this.txtS.Enabled = false;
-            this.txtS.Location = new System.Drawing.Point(208, 102);
+            this.txtS.Location = new System.Drawing.Point(184, 102);
             this.txtS.Multiline = true;
             this.txtS.Name = "txtS";
-            this.txtS.Size = new System.Drawing.Size(66, 40);
+            this.txtS.Size = new System.Drawing.Size(90, 40);
             this.txtS.TabIndex = 5;
             // 
             // Form1
