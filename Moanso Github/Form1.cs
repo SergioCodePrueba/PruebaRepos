@@ -28,7 +28,7 @@ namespace Moanso_Github
 
             a = Double.Parse(txtnum1.Text);
             b = Double.Parse(txtnum2.Text);
-            r = a + b;
+            r = a - b;
 
             txtS.Text = r.ToString();
         }
