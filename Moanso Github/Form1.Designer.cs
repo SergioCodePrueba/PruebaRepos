@@ -71,7 +71,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(189, 153);
+            this.button1.Location = new System.Drawing.Point(187, 171);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 4;
@@ -82,10 +82,10 @@
             // txtS
             // 
             this.txtS.Enabled = false;
-            this.txtS.Location = new System.Drawing.Point(116, 87);
+            this.txtS.Location = new System.Drawing.Point(88, 87);
             this.txtS.Multiline = true;
             this.txtS.Name = "txtS";
-            this.txtS.Size = new System.Drawing.Size(222, 60);
+            this.txtS.Size = new System.Drawing.Size(290, 60);
             this.txtS.TabIndex = 5;
             // 
             // Form1
