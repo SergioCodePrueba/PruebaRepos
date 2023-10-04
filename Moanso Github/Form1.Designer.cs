@@ -85,7 +85,7 @@
             this.txtS.Location = new System.Drawing.Point(184, 102);
             this.txtS.Multiline = true;
             this.txtS.Name = "txtS";
-            this.txtS.Size = new System.Drawing.Size(90, 40);
+            this.txtS.Size = new System.Drawing.Size(109, 40);
             this.txtS.TabIndex = 5;
             // 
             // Form1
